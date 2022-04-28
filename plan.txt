@@ -1,0 +1,17 @@
+create directory structure
+create a npm project and install al dependencies
+--------dependencies
+      --express
+      --ejs express-ejs-layouts
+-----dev dependencies
+    ---- nodemon
+create express server -create server.js file
+git setup and first commit
+install laravelmix
+ ---setup js and css
+ install tailwind css
+create home pge using html and css
+create cart page
+   ---order summary section
+   ---emty cart section
+create order     
